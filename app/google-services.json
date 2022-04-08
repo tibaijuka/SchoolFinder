@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "106447404048",
+    "project_id": "schoolfinder-8b19c",
+    "storage_bucket": "schoolfinder-8b19c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106447404048:android:477668335a069e8b54de95",
+        "android_client_info": {
+          "package_name": "com.cosmas.dev.ug.apps.schoolfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106447404048-ac65ecqlp6pib63abq08kq8j4dk9lt9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBla1wRjwqahGTdXqMg8EAW0cPU6GqC73w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106447404048-ac65ecqlp6pib63abq08kq8j4dk9lt9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
